@@ -1,4 +1,4 @@
-experiment_name: rawtext_dpo_sanity
+experiment_name: rawtext_dpo_main
 seed: 42
 
 dataset:
